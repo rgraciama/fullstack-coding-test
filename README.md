@@ -6,8 +6,6 @@ With this challenge we want to see your skills and the quality of the code, we w
 
 ### Required tools
 
-### Required tools
-
 1. [NodeJS 14.18.0](https://github.com/nvm-sh/nvm) You can use nvm to switch easily versions of node.
 2. _React_ with _Typescript_ as base framework, _react-router_ to manage the necessary routes (Home, Card detail and New Card) and _styled-components_ to style the components instead of css. These dependencies are already installed in the repo we will provide.
 
