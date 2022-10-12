@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Car",
+      "description": "Bruuum brumm",
+      "image": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
+    },
+    {
+      "id": "2",
+      "title": "Motorcycle",
+      "description": "Beep beep",
+      "image": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
+    },
+    {
+      "id": "3",
+      "title": "Camion",
+      "description": "Beep beep",
+      "image": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
+    },
+    {
+      "id": "4",
+      "title": "Plane",
+      "description": "Beep beep",
+      "image": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
+    }
+  ]
+}

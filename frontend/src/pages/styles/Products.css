@@ -1,0 +1,29 @@
+.Products__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+
+.Products__hero>.Products__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Products__container {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.Products_conf-logo {
+  margin-bottom: 2rem;
+}
+
+.Products__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
