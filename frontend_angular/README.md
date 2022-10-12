@@ -1,10 +1,24 @@
-# MyStoreApi
+# MyCodingTestRatedPower (Angular)
+
+This is a web page test using Angular framework to show Products.
+
+![image](https://user-images.githubusercontent.com/1705227/195426862-b05fc20c-b1de-44ea-b779-9830000190f6.png)
+
+![demo-angular-front](https://user-images.githubusercontent.com/1705227/195427589-670ac0ee-d5b3-4343-8d74-a7a60d74978b.png)
+
+1) Create a random Product.
+2) Show a left panel with the product details.
+3) Edit current product with random values.
+4) Delete the product.
+6) Close left panel.
+
+##
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` or `ng serve --proxy-config ./proxy.config.json` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
