@@ -1,3 +1,9 @@
+This React frontend test is abandonated, due to lack time and knowledgement of the React tool/framework. 
+
+I make my test using Angular framework in the frontend_angular project.
+
+https://github.com/rgraciama/fullstack-coding-test/tree/main/frontend_angular
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
