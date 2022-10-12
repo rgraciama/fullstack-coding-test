@@ -1,4 +1,4 @@
-This React frontend test is abandonated, due to lack time and knowledgement of the React tool/framework. 
+This React frontend test is abandonated, due to lack of time and knowledgement of the React tool/framework. 
 
 I make my test using Angular framework in the frontend_angular project.
 
