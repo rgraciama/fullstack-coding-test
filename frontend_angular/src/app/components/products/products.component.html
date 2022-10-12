@@ -1,0 +1,20 @@
+<button (click)="createNewProduct()">create</button>
+<!--<button (click)="onShowDetail('1')">detail not found</button>-->
+<div class="products--grid">
+  <app-product
+    [product]="product"
+    *ngFor="let product of products"
+    (showProduct)="onShowDetail($event)"
+  ></app-product>
+</div>
+<div class="product-detail" [class.active]="showProductDetail">
+  {{ statusDetail }}
+  <div *ngIf="productChosen">
+    <button (click)="toggleProductDetail()">Close</button>
+    <h1>{{ productChosen.title }}</h1>
+    <img [src]="productChosen.imageUrl" alt="">
+    <p>{{ productChosen.description }}</p>
+    <button (click)="updateProduct()">edit</button>
+    <button (click)="deleteProduct()">delete</button>
+  </div>
+</div>
