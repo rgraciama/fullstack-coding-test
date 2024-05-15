@@ -1,6 +1,6 @@
 package com.ratedpower.demo.controller;
 
-import com.ratedpower.demo.domain.Product;
+import com.ratedpower.demo.model.Product;
 import com.ratedpower.demo.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;

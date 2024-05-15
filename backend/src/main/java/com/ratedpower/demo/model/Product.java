@@ -1,4 +1,4 @@
-package com.ratedpower.demo.domain;
+package com.ratedpower.demo.model;
 
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;

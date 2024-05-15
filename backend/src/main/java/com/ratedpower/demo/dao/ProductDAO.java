@@ -1,6 +1,6 @@
 package com.ratedpower.demo.dao;
 
-import com.ratedpower.demo.domain.Product;
+import com.ratedpower.demo.model.Product;
 
 import java.util.List;
 
